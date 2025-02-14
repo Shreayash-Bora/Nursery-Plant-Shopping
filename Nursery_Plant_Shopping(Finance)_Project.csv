@@ -1,0 +1,1501 @@
+ID,PlantName,Category,Price,Quantity,DatePurchased
+1,Lavender,Herb,75,6,01-15-2024
+2,Bamboo,Ornamental,20,15,01-20-2024
+3,Orchid,Flowering,60,20,01-25-2024
+4,Basil,Herb,150,4,02-01-2024
+5,Rose,Flowering,30,12,02-05-2024
+6,Fern,Ornamental,40,10,02-10-2024
+7,Cactus,Succulent,100,8,02-15-2024
+8,Mint,Herb,200,3.5,02-20-2024
+9,Tulip,Flowering,80,18,03-01-2024
+10,Lily,Flowering,50,25,03-05-2024
+11,Aloe Vera,Succulent,70,7,03-10-2024
+12,Jasmine,Flowering,45,14,03-15-2024
+13,Sunflower,Flowering,90,10,03-20-2024
+14,Peppermint,Herb,130,5,04-01-2024
+15,Ivy,Ornamental,55,9,04-05-2024
+16,Marigold,Flowering,40,11,04-10-2024
+17,Sage,Herb,80,6.5,04-15-2024
+18,Spider Plant,Ornamental,70,12,04-20-2024
+19,Chrysanthemum,Flowering,60,16,05-01-2024
+20,Lavender,Herb,90,7,05-05-2024
+21,Bamboo,Ornamental,30,14,05-10-2024
+22,Ficus,Ornamental,25,22,05-15-2024
+23,Geranium,Flowering,85,13,05-20-2024
+24,Thyme,Herb,95,4.5,06-01-2024
+25,Peony,Flowering,40,19,06-05-2024
+26,Pothos,Ornamental,60,10,06-10-2024
+27,Eucalyptus,Ornamental,50,25,06-15-2024
+28,Daffodil,Flowering,70,15,06-20-2024
+29,Begonia,Flowering,80,12,07-01-2024
+30,Aloe,Succulent,30,9,07-05-2024
+31,Kalanchoe,Succulent,40,8,07-10-2024
+32,Hosta,Ornamental,45,13,07-15-2024
+33,Pansy,Flowering,55,11,07-20-2024
+34,Hollyhock,Flowering,30,16,08-01-2024
+35,Amaryllis,Flowering,35,22,08-05-2024
+36,Yucca,Ornamental,60,18,08-10-2024
+37,African Violet,Flowering,40,14,08-15-2024
+38,Sedum,Succulent,70,10,08-20-2024
+39,Cineraria,Flowering,45,12,09-01-2024
+40,Coleus,Ornamental,50,9,09-05-2024
+41,Nasturtium,Flowering,65,11,09-10-2024
+42,Lavender,Herb,80,7.5,09-15-2024
+43,Fuchsia,Flowering,35,13,09-20-2024
+44,Pilea,Ornamental,50,15,10-01-2024
+45,Heliotrope,Flowering,55,10,10-05-2024
+46,Wandering Jew,Ornamental,65,12,10-10-2024
+47,Gerbera Daisy,Flowering,45,20,10-15-2024
+48,Lobelia,Flowering,70,14,10-20-2024
+49,Dianthus,Flowering,50,16,11-01-2024
+50,Lobelia,Flowering,60,13,11-05-2024
+51,Salvia,Flowering,80,18,11-10-2024
+52,Anemone,Flowering,40,22,11-15-2024
+53,English Ivy,Ornamental,55,11,12-01-2024
+54,Lithops,Succulent,30,7,12-05-2024
+55,Phlox,Flowering,50,12,12-10-2024
+56,Caladium,Ornamental,40,15,12-15-2024
+57,Heliotrope,Flowering,60,14,01-01-2024
+58,Maranta,Ornamental,50,10,01-05-2024
+59,Hostas,Ornamental,65,12,01-10-2024
+60,Calla Lily,Flowering,70,20,01-15-2024
+61,Amaranthus,Flowering,50,18,01-20-2024
+62,Gardenia,Flowering,35,22,02-01-2024
+63,Poppy,Flowering,45,14,02-05-2024
+64,Croton,Ornamental,30,16,02-10-2024
+65,Pilea,Ornamental,40,12,02-15-2024
+66,Phalaenopsis,Flowering,25,28,03-01-2024
+67,Dandelion,Herb,100,5,03-05-2024
+68,Hoya,Succulent,35,9,03-10-2024
+69,Verbena,Flowering,80,12,03-15-2024
+70,Dymondia,Ornamental,55,7,03-20-2024
+71,Jade Plant,Succulent,40,15,04-01-2024
+72,Snapdragon,Flowering,65,14,04-05-2024
+73,Zinnia,Flowering,50,16,04-10-2024
+74,Kalanchoe,Succulent,60,8,04-15-2024
+75,Lobelia,Flowering,70,11,04-20-2024
+76,Heliotrope,Flowering,40,12,05-01-2024
+77,Petunia,Flowering,90,13,05-05-2024
+78,Calla Lily,Flowering,35,22,05-10-2024
+79,Portulaca,Succulent,75,10,05-15-2024
+80,Ginger,Herb,50,18,05-20-2024
+81,Cineraria,Flowering,60,13,06-01-2024
+82,Astilbe,Flowering,55,16,06-05-2024
+83,Impatiens,Flowering,80,12,06-10-2024
+84,Hosta,Ornamental,40,14,06-15-2024
+85,Pansy,Flowering,45,11,06-20-2024
+86,Echeveria,Succulent,50,8,07-01-2024
+87,Dracaena,Ornamental,60,20,07-05-2024
+88,Begonia,Flowering,30,12,07-10-2024
+89,Zinnia,Flowering,50,15,07-15-2024
+90,Maranta,Ornamental,70,10,07-20-2024
+91,Plumbago,Flowering,60,18,08-01-2024
+92,Heliotrope,Flowering,35,13,08-05-2024
+93,Amaranthus,Flowering,50,22,08-10-2024
+94,Fuchsia,Flowering,45,12,08-15-2024
+95,Nettle,Herb,55,7,08-20-2024
+96,Ageratum,Flowering,60,11,09-01-2024
+97,Heliotrope,Flowering,70,14,09-05-2024
+98,Geranium,Flowering,50,13,09-10-2024
+99,Asparagus Fern,Ornamental,45,12,09-15-2024
+100,Verbena,Flowering,50,11,09-20-2024
+101,Aloe Vera,Succulent,75,8,10-01-2024
+102,Bluebell,Flowering,45,9,10-05-2024
+103,Cactus,Succulent,60,12,10-10-2024
+104,Daffodil,Flowering,55,13,10-15-2024
+105,Eucalyptus,Ornamental,40,20,10-20-2024
+106,Fuchsia,Flowering,50,15,11-01-2024
+107,Gardenia,Flowering,30,22,11-05-2024
+108,Hoya,Succulent,65,10,11-10-2024
+109,Ivy,Ornamental,70,14,11-15-2024
+110,Jasmine,Flowering,50,18,12-01-2024
+111,Kalanchoe,Succulent,45,8,12-05-2024
+112,Lavender,Herb,80,6,12-10-2024
+113,Maranta,Ornamental,55,11,12-15-2024
+114,Nettle,Herb,70,7,01-01-2024
+115,Orchid,Flowering,40,20,01-05-2024
+116,Pansy,Flowering,50,12,01-10-2024
+117,Peony,Flowering,60,17,01-15-2024
+118,Philodendron,Ornamental,30,20,02-01-2024
+119,Portulaca,Succulent,45,10,02-05-2024
+120,Pothos,Ornamental,50,9,02-10-2024
+121,Snapdragon,Flowering,55,14,02-15-2024
+122,Sunflower,Flowering,70,13,03-01-2024
+123,Verbena,Flowering,40,11,03-05-2024
+124,Wandering Jew,Ornamental,45,12,03-10-2024
+125,Zinnia,Flowering,60,14,03-15-2024
+126,Begonia,Flowering,50,13,04-01-2024
+127,Bird of Paradise,Flowering,30,25,04-05-2024
+128,Caladium,Ornamental,55,16,04-10-2024
+129,Cineraria,Flowering,45,13,04-15-2024
+130,Croton,Ornamental,60,18,04-20-2024
+131,Dracaena,Ornamental,50,22,05-01-2024
+132,Echeveria,Succulent,45,8,05-05-2024
+133,Fuchsia,Flowering,70,14,05-10-2024
+134,Geranium,Flowering,60,12,05-15-2024
+135,Heliotrope,Flowering,50,13,05-20-2024
+136,Jade Plant,Succulent,35,10,06-01-2024
+137,Maranta,Ornamental,55,12,06-05-2024
+138,Nasturtium,Flowering,40,15,06-10-2024
+139,Peperomia,Ornamental,50,14,06-15-2024
+140,Pilea,Ornamental,30,12,06-20-2024
+141,Pothos,Ornamental,40,13,07-01-2024
+142,Portulaca,Succulent,60,10,07-05-2024
+143,Sage,Herb,70,5,07-10-2024
+144,Sedum,Succulent,45,9,07-15-2024
+145,Spider Plant,Ornamental,50,11,07-20-2024
+146,Sunflower,Flowering,60,12,08-01-2024
+147,Sweet Potato Vine,Ornamental,35,18,08-05-2024
+148,Tuberous Begonia,Flowering,40,20,08-10-2024
+149,Zinnia,Flowering,50,15,08-15-2024
+150,Alyssum,Flowering,60,11,08-20-2024
+151,Astilbe,Flowering,50,16,09-01-2024
+152,Begonia,Flowering,40,12,09-05-2024
+153,Calla Lily,Flowering,55,22,09-10-2024
+154,Colocasia,Ornamental,45,14,09-15-2024
+155,Croton,Ornamental,50,20,09-20-2024
+156,Dianthus,Flowering,60,16,10-01-2024
+157,Fuchsia,Flowering,30,13,10-05-2024
+158,Geranium,Flowering,50,14,10-10-2024
+159,Heliotrope,Flowering,40,12,10-15-2024
+160,Ivy,Ornamental,45,11,10-20-2024
+161,Kalanchoe,Succulent,50,9,11-01-2024
+162,Maranta,Ornamental,35,10,11-05-2024
+163,Nettle,Herb,45,6,11-10-2024
+164,Orchid,Flowering,30,22,11-15-2024
+165,Peperomia,Ornamental,60,16,12-01-2024
+166,Phlox,Flowering,50,14,12-05-2024
+167,Pothos,Ornamental,45,12,12-10-2024
+168,Rosemary,Herb,70,5,12-15-2024
+169,Sage,Herb,55,7,01-01-2024
+170,Sweet Basil,Herb,40,4,01-05-2024
+171,Tarragon,Herb,45,6,01-10-2024
+172,Thyme,Herb,50,5.5,01-15-2024
+173,Zinnia,Flowering,30,12,01-20-2024
+174,Anthurium,Flowering,60,17,02-01-2024
+175,Bamboo,Ornamental,50,14,02-05-2024
+176,Balsam,Flowering,30,11,02-10-2024
+177,Calla Lily,Flowering,45,20,02-15-2024
+178,Cress,Herb,60,3,03-01-2024
+179,Dianthus,Flowering,50,15,03-05-2024
+180,Epiphytic Bromeliad,Ornamental,70,18,03-10-2024
+181,Euphorbia,Succulent,40,10,03-15-2024
+182,Fuchsia,Flowering,55,14,04-01-2024
+183,Gardenia,Flowering,45,22,04-05-2024
+184,Gerbera Daisy,Flowering,60,20,04-10-2024
+185,Goldfish Plant,Ornamental,50,14,04-15-2024
+186,Hoya,Succulent,35,12,04-20-2024
+187,Kalanchoe,Succulent,55,8,05-01-2024
+188,Lobelia,Flowering,30,11,05-05-2024
+189,Maranta,Ornamental,60,13,05-10-2024
+190,Petunia,Flowering,50,14,05-15-2024
+191,Plumbago,Flowering,45,16,05-20-2024
+192,Poppy,Flowering,70,20,06-01-2024
+193,Sedum,Succulent,60,9,06-05-2024
+194,Sweet Potato Vine,Ornamental,55,17,06-10-2024
+195,Verbena,Flowering,50,12,06-15-2024
+196,Watermelon Begonia,Ornamental,30,20,06-20-2024
+197,Yucca,Ornamental,45,22,07-01-2024
+198,Zinnia,Flowering,70,16,07-05-2024
+199,Bamboo Palm,Ornamental,55,18,07-10-2024
+200,Begonia,Flowering,40,12,07-15-2024
+201,Acalypha,Ornamental,50,10,08-01-2024
+202,Agave,Succulent,40,14,08-05-2024
+203,Allamanda,Flowering,30,18,08-10-2024
+204,Aloe Vera,Succulent,60,9,08-15-2024
+205,Anemone,Flowering,50,20,08-20-2024
+206,Angelonia,Flowering,70,13,09-01-2024
+207,Anthurium,Flowering,40,22,09-05-2024
+208,Aralia,Ornamental,60,16,09-10-2024
+209,Asparagus Fern,Ornamental,55,11,09-15-2024
+210,Astilbe,Flowering,50,15,09-20-2024
+211,Azalea,Flowering,45,18,10-01-2024
+212,Begonia,Flowering,60,12,10-05-2024
+213,Bird of Paradise,Flowering,50,25,10-10-2024
+214,Blueberry,Fruit,45,18,10-15-2024
+215,Bougainvillea,Flowering,30,22,10-20-2024
+216,Bromeliad,Ornamental,50,14,11-01-2024
+217,Caladium,Ornamental,60,16,11-05-2024
+218,Calla Lily,Flowering,35,20,11-10-2024
+219,Celosia,Flowering,50,12,11-15-2024
+220,Cherry Blossom,Flowering,45,30,12-01-2024
+221,Chrysanthemum,Flowering,70,14,12-05-2024
+222,Clematis,Flowering,60,18,12-10-2024
+223,Coleus,Ornamental,45,10,12-15-2024
+224,Corn Plant,Ornamental,50,12,01-01-2024
+225,Croton,Ornamental,40,15,01-05-2024
+226,Dahlia,Flowering,60,20,01-10-2024
+227,Delphinium,Flowering,35,18,01-15-2024
+228,Dwarf Umbrella Tree,Ornamental,50,22,02-01-2024
+229,English Ivy,Ornamental,55,10,02-05-2024
+230,Echinacea,Flowering,40,14,02-10-2024
+231,Epipremnum,Ornamental,60,13,02-15-2024
+232,Fatsia,Ornamental,50,20,03-01-2024
+233,Gardenia,Flowering,45,25,03-05-2024
+234,Gazania,Flowering,60,16,03-10-2024
+235,Gladiolus,Flowering,50,15,03-15-2024
+236,Goldfish Plant,Ornamental,45,14,03-20-2024
+237,Heliotrope,Flowering,60,12,04-01-2024
+238,Hoya,Succulent,50,10,04-05-2024
+239,Kalanchoe,Succulent,55,8,04-10-2024
+240,Lantana,Flowering,60,14,04-15-2024
+241,Lilac,Flowering,45,20,04-20-2024
+242,Lobelia,Flowering,70,12,05-01-2024
+243,Maranta,Ornamental,60,11,05-05-2024
+244,Monstera,Ornamental,50,22,05-10-2024
+245,Nasturtium,Flowering,45,10,05-15-2024
+246,Oxalis,Ornamental,30,15,05-20-2024
+247,Pansy,Flowering,60,12,06-01-2024
+248,Peperomia,Ornamental,50,14,06-05-2024
+249,Periwinkle,Flowering,40,11,06-10-2024
+250,Petunia,Flowering,55,13,06-15-2024
+251,Philodendron,Ornamental,60,20,06-20-2024
+252,Plumbago,Flowering,50,18,07-01-2024
+253,Pothos,Ornamental,45,11,07-05-2024
+254,Primrose,Flowering,70,14,07-10-2024
+255,Rieger Begonia,Flowering,60,16,07-15-2024
+256,Rosemary,Herb,50,8,07-20-2024
+257,Sansevieria,Ornamental,55,18,08-01-2024
+258,Sedum,Succulent,45,9,08-05-2024
+259,Selaginella,Ornamental,50,12,08-10-2024
+260,Snapdragons,Flowering,40,13,08-15-2024
+261,Spider Plant,Ornamental,55,10,08-20-2024
+262,Stephanotis,Flowering,50,22,09-01-2024
+263,Streptocarpus,Flowering,30,20,09-05-2024
+264,Sunflower,Flowering,60,13,09-10-2024
+265,Sweet Alyssum,Flowering,70,11,09-15-2024
+266,Syngonium,Ornamental,45,14,09-20-2024
+267,Tuberous Begonia,Flowering,60,17,10-01-2024
+268,Verbena,Flowering,50,14,10-05-2024
+269,Vinca,Flowering,45,12,10-10-2024
+270,Wandering Jew,Ornamental,60,16,10-15-2024
+271,Watermelon Begonia,Ornamental,35,20,10-20-2024
+272,Wintergreen,Ornamental,50,18,11-01-2024
+273,Yucca,Ornamental,55,22,11-05-2024
+274,Zebra Plant,Ornamental,60,15,11-10-2024
+275,Amaranthus,Flowering,40,13,11-15-2024
+276,Apple Cactus,Succulent,45,11,12-01-2024
+277,Banana Plant,Ornamental,30,22,12-05-2024
+278,Black-eyed Susan,Flowering,50,15,12-10-2024
+279,Blue Spruce,Ornamental,60,30,12-15-2024
+280,Bougainvillea,Flowering,70,25,01-01-2024
+281,Brazilian Jasmine,Flowering,50,20,01-05-2024
+282,Canna Lily,Flowering,60,18,01-10-2024
+283,Cardoon,Herb,45,8,01-15-2024
+284,Cassia,Flowering,50,20,02-01-2024
+285,Chinese Evergreen,Ornamental,60,12,02-05-2024
+286,Chives,Herb,70,6,02-10-2024
+287,Cineraria,Flowering,45,14,02-15-2024
+288,Cyclamen,Flowering,50,16,03-01-2024
+289,Desert Rose,Succulent,60,20,03-05-2024
+290,Dracaena,Ornamental,45,18,03-10-2024
+291,Eggplant,Fruit,50,10,03-15-2024
+292,Eleagnus,Ornamental,60,14,03-20-2024
+293,Fuchsia,Flowering,50,12,04-01-2024
+294,Gladiolus,Flowering,40,17,04-05-2024
+295,Gloxinia,Flowering,55,20,04-10-2024
+296,Heliotrope,Flowering,30,14,04-15-2024
+297,Hostas,Ornamental,60,12,04-20-2024
+298,Hydrangea,Flowering,50,22,05-01-2024
+299,Ice Plant,Succulent,45,8,05-05-2024
+300,Jasmine,Flowering,40,18,05-10-2024
+301,Kalanchoe,Succulent,50,9,05-15-2024
+302,Maranta,Ornamental,60,15,05-20-2024
+303,Mandevilla,Flowering,45,20,06-01-2024
+304,Mango Tree,Fruit,50,35,06-05-2024
+305,Monstera,Ornamental,55,25,06-10-2024
+306,Morning Glory,Flowering,60,14,06-15-2024
+307,Nasturtium,Flowering,50,11,06-20-2024
+308,Ornamental Pepper,Ornamental,45,13,07-01-2024
+309,Pansy,Flowering,60,14,07-05-2024
+310,Passion Flower,Flowering,50,18,07-10-2024
+311,Peperomia,Ornamental,60,16,07-15-2024
+312,Pilea,Ornamental,50,12,07-20-2024
+313,Portulaca,Succulent,70,10,08-01-2024
+314,Prickly Pear Cactus,Succulent,60,15,08-05-2024
+315,Rudbeckia,Flowering,45,12,08-10-2024
+316,Salvia,Flowering,50,14,08-15-2024
+317,Sansevieria,Ornamental,60,22,08-20-2024
+318,Scented Geranium,Herb,40,10,09-01-2024
+319,Snapdragon,Flowering,55,16,09-05-2024
+320,Stephanotis,Flowering,60,22,09-10-2024
+321,Sunflower,Flowering,50,14,09-15-2024
+322,Sweet Basil,Herb,40,5,09-20-2024
+323,Sweet Pea,Flowering,70,15,10-01-2024
+324,Tradescantia,Ornamental,50,12,10-05-2024
+325,Tulip,Flowering,45,17,10-10-2024
+326,Verbena,Flowering,60,14,10-15-2024
+327,Water Lily,Ornamental,40,20,10-20-2024
+328,Winter Jasmine,Flowering,50,18,11-01-2024
+329,Wisteria,Flowering,60,25,11-05-2024
+330,Yucca,Ornamental,45,20,11-10-2024
+331,Air Plant,Succulent,55,15,11-15-2024
+332,Basil,Herb,60,4,12-01-2024
+333,Cactus,Succulent,50,10,12-05-2024
+334,Calla Lily,Flowering,45,20,12-10-2024
+335,Chamomile,Herb,70,7,12-15-2024
+336,Chervil,Herb,40,5,12-20-2024
+337,Cherry Tomato,Fruit,60,12,01-01-2024
+338,Chrysanthemum,Flowering,45,14,01-05-2024
+339,Cornflower,Flowering,50,12,01-10-2024
+340,Crocus,Flowering,70,11,01-15-2024
+341,Dahlia,Flowering,55,18,01-20-2024
+342,Daylily,Flowering,60,16,02-01-2024
+343,Fennel,Herb,45,8,02-05-2024
+344,Gardenia,Flowering,50,22,02-10-2024
+345,Geranium,Flowering,60,14,02-15-2024
+346,Heliotropium,Flowering,50,15,03-01-2024
+347,Hoya,Succulent,40,12,03-05-2024
+348,Impatiens,Flowering,55,12,03-10-2024
+349,Indian Paintbrush,Flowering,60,18,03-15-2024
+350,Ivy,Ornamental,45,10,03-20-2024
+351,Lobelia,Flowering,50,14,04-01-2024
+352,Monarda,Flowering,55,16,04-05-2024
+353,Moss Rose,Flowering,40,10,04-10-2024
+354,Nandina,Ornamental,60,14,04-15-2024
+355,Petunia,Flowering,50,13,04-20-2024
+356,Phlox,Flowering,60,16,05-01-2024
+357,Portulaca,Succulent,45,12,05-05-2024
+358,Rhododendron,Flowering,50,22,05-10-2024
+359,Sage,Herb,60,7,05-15-2024
+360,Salvia,Flowering,45,15,05-20-2024
+361,Sweet Pea,Flowering,60,14,06-01-2024
+362,Syngonium,Ornamental,55,13,06-05-2024
+363,Verbena,Flowering,45,10,06-10-2024
+364,Zinnia,Flowering,50,14,06-15-2024
+365,Blue Salvia,Flowering,60,12,06-20-2024
+366,Cabbage,Vegetable,45,8,07-01-2024
+367,Calendula,Flowering,50,11,07-05-2024
+368,Carnation,Flowering,60,15,07-10-2024
+369,Celosia,Flowering,45,12,07-15-2024
+370,Chives,Herb,50,6,07-20-2024
+371,Cress,Herb,55,5,08-01-2024
+372,Echinacea,Flowering,60,17,08-05-2024
+373,Fuchsia,Flowering,45,18,08-10-2024
+374,Gerbera Daisy,Flowering,50,20,08-15-2024
+375,Heliotrope,Flowering,60,14,08-20-2024
+376,Jasmine,Flowering,50,25,09-01-2024
+377,Lantana,Flowering,45,12,09-05-2024
+378,Lobelia,Flowering,60,13,09-10-2024
+379,Maranta,Ornamental,50,15,09-15-2024
+380,Mandevilla,Flowering,60,22,09-20-2024
+381,Monstera,Ornamental,45,20,10-01-2024
+382,Morning Glory,Flowering,50,18,10-05-2024
+383,Peperomia,Ornamental,60,13,10-10-2024
+384,Petunia,Flowering,50,15,10-15-2024
+385,Phlox,Flowering,45,16,10-20-2024
+386,Salvia,Flowering,60,18,11-01-2024
+387,Sansevieria,Ornamental,55,20,11-05-2024
+388,Spider Plant,Ornamental,50,14,11-10-2024
+389,Sweet Basil,Herb,60,5,11-15-2024
+390,Sweet Pea,Flowering,50,12,11-20-2024
+391,Verbena,Flowering,60,15,12-01-2024
+392,Watermelon Begonia,Ornamental,45,20,12-05-2024
+393,Wisteria,Flowering,60,25,12-10-2024
+394,Yucca,Ornamental,50,22,12-15-2024
+395,Zephyr Lily,Flowering,40,16,12-20-2024
+396,Aloe Vera,Succulent,55,10,01-01-2024
+397,Begonia,Flowering,60,14,01-05-2024
+398,Cactus,Succulent,50,12,01-10-2024
+399,Coleus,Ornamental,60,11,01-15-2024
+400,Croton,Ornamental,45,18,01-20-2024
+401,Dahlia,Flowering,50,22,02-01-2024
+402,Echeveria,Succulent,45,15,02-05-2024
+403,Fuchsia,Flowering,60,17,02-10-2024
+404,Gardenia,Flowering,50,20,02-15-2024
+405,Lobelia,Flowering,45,12,03-01-2024
+406,Pansy,Flowering,50,13,03-05-2024
+407,Peperomia,Ornamental,45,14,03-10-2024
+408,Portulaca,Succulent,60,11,03-15-2024
+409,Salvia,Flowering,50,14,03-20-2024
+410,Spider Plant,Ornamental,55,12,04-01-2024
+411,Sweet Basil,Herb,50,6,04-05-2024
+412,Verbena,Flowering,45,16,04-10-2024
+413,Zinnia,Flowering,60,15,04-15-2024
+414,Blue Salvia,Flowering,50,14,05-01-2024
+415,Canna Lily,Flowering,60,20,05-05-2024
+416,Cress,Herb,50,6,05-10-2024
+417,Daffodil,Flowering,45,12,05-15-2024
+418,Elephant Ear,Ornamental,60,22,05-20-2024
+419,Foxglove,Flowering,50,16,06-01-2024
+420,Geranium,Flowering,45,14,06-05-2024
+421,Maranta,Ornamental,50,15,06-10-2024
+422,Moonflower,Flowering,60,20,06-15-2024
+423,Petunia,Flowering,50,13,06-20-2024
+424,Rose,Flowering,60,25,07-01-2024
+425,Sweet Pea,Flowering,50,16,07-05-2024
+426,Zinnia,Flowering,45,12,07-10-2024
+427,Aloe Vera,Succulent,55,14,07-15-2024
+428,Begonia,Flowering,60,15,07-20-2024
+429,Celosia,Flowering,50,18,08-01-2024
+430,Cosmos,Flowering,60,16,08-05-2024
+431,Echinacea,Flowering,50,20,08-10-2024
+432,Geranium,Flowering,45,15,08-15-2024
+433,Maranta,Ornamental,60,14,09-01-2024
+434,Petunia,Flowering,45,12,09-05-2024
+435,Sweet Basil,Herb,50,5,09-10-2024
+436,Verbena,Flowering,60,16,09-15-2024
+437,Zinnia,Flowering,50,14,10-01-2024
+438,Blue Salvia,Flowering,60,13,10-05-2024
+439,Cabbage,Vegetable,50,8,10-10-2024
+440,Calendula,Flowering,45,11,10-15-2024
+441,Cyclamen,Flowering,50,14,10-20-2024
+442,Dianthus,Flowering,45,12,11-01-2024
+443,Dusty Miller,Ornamental,60,15,11-05-2024
+444,Phlox,Flowering,50,18,11-10-2024
+445,Rosemary,Herb,55,9,11-15-2024
+446,Spider Plant,Ornamental,60,13,12-01-2024
+447,Sweet Pea,Flowering,45,11,12-05-2024
+448,Watermelon Begonia,Ornamental,50,18,12-10-2024
+449,Yucca,Ornamental,45,20,12-15-2024
+450,Acacia,Ornamental,55,24,01-01-2024
+451,Allium,Flowering,50,15,01-05-2024
+452,Angelonia,Flowering,45,14,01-10-2024
+453,Anise Hyssop,Herb,60,7,01-15-2024
+454,Aralia,Ornamental,40,18,01-20-2024
+455,Aregelia,Ornamental,50,22,02-01-2024
+456,Asparagus Fern,Ornamental,60,13,02-05-2024
+457,Avocado,Fruit,45,30,02-10-2024
+458,Baby's Breath,Flowering,50,12,02-15-2024
+459,Bamboo,Ornamental,40,25,03-01-2024
+460,Balsam,Flowering,55,16,03-05-2024
+461,Beetroot,Vegetable,60,8,03-10-2024
+462,Bellflower,Flowering,50,14,03-15-2024
+463,Bird of Paradise,Ornamental,60,28,03-20-2024
+464,Black-Eyed Susan,Flowering,45,12,04-01-2024
+465,Bleeding Heart,Flowering,50,18,04-05-2024
+466,Bluebell,Flowering,55,13,04-10-2024
+467,Bougainvillea,Flowering,60,22,04-15-2024
+468,Calla Lily,Flowering,45,20,05-01-2024
+469,Carrot,Vegetable,60,6,05-05-2024
+470,Celosia,Flowering,50,15,05-10-2024
+471,Cherry Blossom,Flowering,40,25,05-15-2024
+472,Chicory,Herb,60,8,06-01-2024
+473,Chinese Lantern,Ornamental,50,16,06-05-2024
+474,Cinnamon Basil,Herb,60,7,06-10-2024
+475,Coleus,Ornamental,45,12,06-15-2024
+476,Cornflower,Flowering,55,14,07-01-2024
+477,Cosmos,Flowering,50,18,07-05-2024
+478,Croton,Ornamental,45,20,07-10-2024
+479,Cucumber,Vegetable,60,7,07-15-2024
+480,Dahlia,Flowering,55,22,08-01-2024
+481,Daylily,Flowering,50,17,08-05-2024
+482,Dill,Herb,60,6,08-10-2024
+483,Echinacea,Flowering,45,14,08-15-2024
+484,Eggplant,Vegetable,50,10,09-01-2024
+485,Eleagnus,Ornamental,55,18,09-05-2024
+486,Foxglove,Flowering,50,22,09-10-2024
+487,Geranium,Flowering,45,15,09-15-2024
+488,Gladiolus,Flowering,60,20,10-01-2024
+489,Green Bean,Vegetable,50,9,10-05-2024
+490,Heliotrope,Flowering,45,12,10-10-2024
+491,Hollyhock,Flowering,60,16,10-15-2024
+492,Hostas,Ornamental,50,14,10-20-2024
+493,Hyacinth,Flowering,45,13,11-01-2024
+494,Impatiens,Flowering,55,16,11-05-2024
+495,Jasmine,Flowering,50,22,11-10-2024
+496,Kale,Vegetable,60,8,11-15-2024
+497,Lantana,Flowering,45,14,12-01-2024
+498,Lemon Balm,Herb,50,9,12-05-2024
+499,Lettuce,Vegetable,60,5,12-10-2024
+500,Lobelia,Flowering,45,13,12-15-2024
+501,Mandevilla,Flowering,50,20,01-01-2024
+502,Maranta,Ornamental,60,18,01-05-2024
+503,Mint,Herb,45,7,01-10-2024
+504,Morning Glory,Flowering,50,12,01-15-2024
+505,Nasturtium,Flowering,60,11,02-01-2024
+506,Orchid,Flowering,50,30,02-05-2024
+507,Oregano,Herb,60,8,02-10-2024
+508,Peony,Flowering,45,22,02-15-2024
+509,Petunia,Flowering,50,14,03-01-2024
+510,Phlox,Flowering,60,16,03-05-2024
+511,Poppy,Flowering,45,12,03-10-2024
+512,Rosemary,Herb,50,10,03-15-2024
+513,Sage,Herb,55,7,04-01-2024
+514,Salvia,Flowering,60,20,04-05-2024
+515,Sunflower,Flowering,45,14,04-10-2024
+516,Sweet Pea,Flowering,50,18,04-15-2024
+517,Taro,Ornamental,60,16,05-01-2024
+518,Tomato,Vegetable,45,10,05-05-2024
+519,Verbena,Flowering,50,12,05-10-2024
+520,Wisteria,Flowering,60,25,05-15-2024
+521,Yarrow,Flowering,45,15,06-01-2024
+522,Zinnia,Flowering,50,16,06-05-2024
+523,Aloe Vera,Succulent,60,14,06-10-2024
+524,Begonia,Flowering,50,17,06-15-2024
+525,Bellflower,Flowering,45,13,07-01-2024
+526,Cactus,Succulent,60,10,07-05-2024
+527,Carnation,Flowering,50,20,07-10-2024
+528,Celosia,Flowering,45,15,07-15-2024
+529,Chives,Herb,60,5,08-01-2024
+530,Cress,Herb,45,6,08-05-2024
+531,Echinacea,Flowering,50,18,08-10-2024
+532,Fuchsia,Flowering,60,20,08-15-2024
+533,Gardenia,Flowering,45,22,09-01-2024
+534,Hollyhock,Flowering,60,15,09-05-2024
+535,Impatiens,Flowering,50,12,09-10-2024
+536,Jasmine,Flowering,60,24,09-15-2024
+537,Lantana,Flowering,45,14,10-01-2024
+538,Maranta,Ornamental,50,16,10-05-2024
+539,Mandevilla,Flowering,45,22,10-10-2024
+540,Monstera,Ornamental,60,20,10-15-2024
+541,Moonflower,Flowering,50,18,11-01-2024
+542,Nasturtium,Flowering,45,11,11-05-2024
+543,Orchid,Flowering,60,30,11-10-2024
+544,Peperomia,Ornamental,45,15,11-15-2024
+545,Petunia,Flowering,50,14,12-01-2024
+546,Phlox,Flowering,60,16,12-05-2024
+547,Poppy,Flowering,45,12,12-10-2024
+548,Rosemary,Herb,50,9,12-15-2024
+549,Sage,Herb,60,7,01-01-2024
+550,Sansevieria,Ornamental,55,20,01-05-2024
+551,Spider Plant,Ornamental,60,14,01-10-2024
+552,Sweet Pea,Flowering,50,16,01-15-2024
+553,Verbena,Flowering,60,14,01-20-2024
+554,Zinnia,Flowering,50,15,02-01-2024
+555,Blue Salvia,Flowering,60,13,02-05-2024
+556,Cabbage,Vegetable,45,8,02-10-2024
+557,Calendula,Flowering,50,11,02-15-2024
+558,Carnation,Flowering,60,16,03-01-2024
+559,Celosia,Flowering,45,12,03-05-2024
+560,Chives,Herb,50,6,03-10-2024
+561,Cress,Herb,55,5,03-15-2024
+562,Echinacea,Flowering,60,17,04-01-2024
+563,Fuchsia,Flowering,45,18,04-05-2024
+564,Gerbera Daisy,Flowering,50,20,04-10-2024
+565,Heliotrope,Flowering,60,14,04-15-2024
+566,Jasmine,Flowering,50,25,05-01-2024
+567,Lantana,Flowering,45,12,05-05-2024
+568,Lobelia,Flowering,60,13,05-10-2024
+569,Maranta,Ornamental,50,15,05-15-2024
+570,Mandevilla,Flowering,60,22,05-20-2024
+571,Monstera,Ornamental,45,20,06-01-2024
+572,Moonflower,Flowering,50,18,06-05-2024
+573,Peperomia,Ornamental,60,13,06-10-2024
+574,Petunia,Flowering,50,15,06-15-2024
+575,Phlox,Flowering,45,16,07-01-2024
+576,Salvia,Flowering,60,18,07-05-2024
+577,Sansevieria,Ornamental,55,20,07-10-2024
+578,Spider Plant,Ornamental,50,14,07-15-2024
+579,Sweet Basil,Herb,60,5,08-01-2024
+580,Sweet Pea,Flowering,50,12,08-05-2024
+581,Verbena,Flowering,60,15,08-10-2024
+582,Watermelon Begonia,Ornamental,45,20,08-15-2024
+583,Wisteria,Flowering,50,25,09-01-2024
+584,Zinnia,Flowering,60,16,09-05-2024
+585,Aloe Vera,Succulent,45,14,09-10-2024
+586,Begonia,Flowering,50,18,09-15-2024
+587,Bellflower,Flowering,60,12,10-01-2024
+588,Cactus,Succulent,45,10,10-05-2024
+589,Carnation,Flowering,50,20,10-10-2024
+590,Celosia,Flowering,60,14,10-15-2024
+591,Chives,Herb,45,7,11-01-2024
+592,Cress,Herb,50,6,11-05-2024
+593,Echinacea,Flowering,55,17,11-10-2024
+594,Fuchsia,Flowering,60,22,11-15-2024
+595,Gerbera Daisy,Flowering,45,20,12-01-2024
+596,Heliotrope,Flowering,50,16,12-05-2024
+597,Jasmine,Flowering,60,24,12-10-2024
+598,Lantana,Flowering,45,12,12-15-2024
+599,Lettuce,Vegetable,60,5,01-01-2024
+600,Lobelia,Flowering,50,14,01-05-2024
+601,Maranta,Ornamental,60,16,01-10-2024
+602,Mandevilla,Flowering,45,22,01-15-2024
+603,Monstera,Ornamental,60,20,02-01-2024
+604,Moonflower,Flowering,50,18,02-05-2024
+605,Peperomia,Ornamental,60,13,02-10-2024
+606,Petunia,Flowering,45,15,02-15-2024
+607,Phlox,Flowering,60,16,03-01-2024
+608,Salvia,Flowering,45,18,03-05-2024
+609,Sansevieria,Ornamental,60,20,03-10-2024
+610,Spider Plant,Ornamental,50,14,03-15-2024
+611,Sweet Basil,Herb,60,5,04-01-2024
+612,Sweet Pea,Flowering,45,16,04-05-2024
+613,Verbena,Flowering,60,15,04-10-2024
+614,Watermelon Begonia,Ornamental,50,20,04-15-2024
+615,Wisteria,Flowering,60,25,05-01-2024
+616,Zinnia,Flowering,45,16,05-05-2024
+617,Aloe Vera,Succulent,50,14,05-10-2024
+618,Begonia,Flowering,60,18,05-15-2024
+619,Bellflower,Flowering,45,12,06-01-2024
+620,Cactus,Succulent,60,10,06-05-2024
+621,Carnation,Flowering,45,20,06-10-2024
+622,Celosia,Flowering,50,14,06-15-2024
+623,Chives,Herb,60,7,07-01-2024
+624,Cress,Herb,45,6,07-05-2024
+625,Echinacea,Flowering,50,17,07-10-2024
+626,Fuchsia,Flowering,60,22,07-15-2024
+627,Gerbera Daisy,Flowering,45,20,08-01-2024
+628,Heliotrope,Flowering,50,16,08-05-2024
+629,Jasmine,Flowering,60,24,08-10-2024
+630,Lantana,Flowering,45,12,08-15-2024
+631,Lettuce,Vegetable,60,5,09-01-2024
+632,Lobelia,Flowering,50,14,09-05-2024
+633,Maranta,Ornamental,60,16,09-10-2024
+634,Mandevilla,Flowering,45,22,09-15-2024
+635,Monstera,Ornamental,50,20,10-01-2024
+636,Moonflower,Flowering,60,18,10-05-2024
+637,Peperomia,Ornamental,45,13,10-10-2024
+638,Petunia,Flowering,50,15,10-15-2024
+639,Phlox,Flowering,60,16,11-01-2024
+640,Salvia,Flowering,45,18,11-05-2024
+641,Sansevieria,Ornamental,50,20,11-10-2024
+642,Spider Plant,Ornamental,60,14,11-15-2024
+643,Sweet Basil,Herb,45,5,12-01-2024
+644,Sweet Pea,Flowering,60,12,12-05-2024
+645,Verbena,Flowering,50,15,12-10-2024
+646,Watermelon Begonia,Ornamental,60,20,12-15-2024
+647,Wisteria,Flowering,45,25,01-01-2024
+648,Zinnia,Flowering,50,16,01-05-2024
+649,Aloe Vera,Succulent,60,14,01-10-2024
+650,Begonia,Flowering,45,18,01-15-2024
+651,Bellflower,Flowering,60,12,02-01-2024
+652,Cactus,Succulent,45,10,02-05-2024
+653,Carnation,Flowering,60,20,02-10-2024
+654,Celosia,Flowering,45,14,02-15-2024
+655,Chives,Herb,60,7,03-01-2024
+656,Cress,Herb,45,6,03-05-2024
+657,Echinacea,Flowering,60,17,03-10-2024
+658,Fuchsia,Flowering,45,18,03-15-2024
+659,Gerbera Daisy,Flowering,60,20,04-01-2024
+660,Heliotrope,Flowering,45,16,04-05-2024
+661,Jasmine,Flowering,60,24,04-10-2024
+662,Lantana,Flowering,45,12,04-15-2024
+663,Lettuce,Vegetable,60,5,05-01-2024
+664,Lobelia,Flowering,45,14,05-05-2024
+665,Maranta,Ornamental,60,16,05-10-2024
+666,Mandevilla,Flowering,45,22,05-15-2024
+667,Monstera,Ornamental,60,20,05-20-2024
+668,Moonflower,Flowering,45,18,06-01-2024
+669,Peperomia,Ornamental,60,13,06-05-2024
+670,Petunia,Flowering,45,15,06-10-2024
+671,Phlox,Flowering,60,16,06-15-2024
+672,Salvia,Flowering,45,18,07-01-2024
+673,Sansevieria,Ornamental,60,20,07-05-2024
+674,Spider Plant,Ornamental,45,14,07-10-2024
+675,Sweet Basil,Herb,60,5,08-01-2024
+676,Sweet Pea,Flowering,45,16,08-05-2024
+677,Verbena,Flowering,60,15,08-10-2024
+678,Watermelon Begonia,Ornamental,45,20,08-15-2024
+679,Wisteria,Flowering,60,25,09-01-2024
+680,Zinnia,Flowering,45,16,09-05-2024
+681,Aloe Vera,Succulent,50,14,09-10-2024
+682,Begonia,Flowering,60,18,09-15-2024
+683,Bellflower,Flowering,45,12,10-01-2024
+684,Cactus,Succulent,60,10,10-05-2024
+685,Carnation,Flowering,45,20,10-10-2024
+686,Celosia,Flowering,60,14,10-15-2024
+687,Chives,Herb,45,7,11-01-2024
+688,Cress,Herb,50,6,11-05-2024
+689,Echinacea,Flowering,55,17,11-10-2024
+690,Fuchsia,Flowering,60,22,11-15-2024
+691,Gerbera Daisy,Flowering,45,20,12-01-2024
+692,Heliotrope,Flowering,50,16,12-05-2024
+693,Jasmine,Flowering,60,24,12-10-2024
+694,Lantana,Flowering,45,12,12-15-2024
+695,Agapanthus,Flowering,50,22,01-01-2024
+696,Alocasia,Ornamental,45,18,01-05-2024
+697,Amaranth,Vegetable,60,7,01-10-2024
+698,Anthurium,Flowering,50,25,01-15-2024
+699,Asparagus Fern,Ornamental,60,15,01-20-2024
+700,Balsam,Flowering,45,12,02-01-2024
+701,Bamboo Palm,Ornamental,60,28,02-05-2024
+702,Bellflower,Flowering,50,13,02-10-2024
+703,Black-eyed Susan,Flowering,60,14,02-15-2024
+704,Bluebell,Flowering,45,10,03-01-2024
+705,Bougainvillea,Flowering,60,20,03-05-2024
+706,Brazilian Pepper,Ornamental,50,22,03-10-2024
+707,Canna Lily,Flowering,60,18,03-15-2024
+708,Canthaloupe,Vegetable,45,12,04-01-2024
+709,Cardoon,Vegetable,60,14,04-05-2024
+710,Cassia,Flowering,50,16,04-10-2024
+711,Chinese Evergreen,Ornamental,45,14,04-15-2024
+712,Chrysanthemum,Flowering,60,19,05-01-2024
+713,Coleus,Ornamental,50,15,05-05-2024
+714,Cornflower,Flowering,60,12,05-10-2024
+715,Croton,Ornamental,45,20,05-15-2024
+716,Dahlia,Flowering,60,22,06-01-2024
+717,Delphinium,Flowering,50,25,06-05-2024
+718,Devil?s Ivy,Ornamental,60,18,06-10-2024
+719,Eucalyptus,Ornamental,45,28,06-15-2024
+720,Fatsia,Ornamental,50,20,07-01-2024
+721,Fuchsia,Flowering,60,22,07-05-2024
+722,Geranium,Flowering,45,14,07-10-2024
+723,Gloxinia,Flowering,60,16,07-15-2024
+724,Goldfish Plant,Ornamental,50,18,08-01-2024
+725,Hoya,Ornamental,45,25,08-05-2024
+726,Kangaroo Paw,Flowering,60,19,08-10-2024
+727,Kalanchoe,Succulent,50,14,08-15-2024
+728,Lantana,Flowering,45,12,09-01-2024
+729,Lobelia,Flowering,60,13,09-05-2024
+730,Mexican Heather,Flowering,50,15,09-10-2024
+731,Monstera,Ornamental,45,20,09-15-2024
+732,New Guinea Impatiens,Flowering,60,18,10-01-2024
+733,Osteospermum,Flowering,50,17,10-05-2024
+734,Palms,Ornamental,60,30,10-10-2024
+735,Pansy,Flowering,45,10,10-15-2024
+736,Papyrus,Ornamental,60,20,11-01-2024
+737,Petunia,Flowering,50,15,11-05-2024
+738,Phlox,Flowering,60,16,11-10-2024
+739,Prayer Plant,Ornamental,45,12,11-15-2024
+740,Salvia,Flowering,60,18,12-01-2024
+741,Scindapsus,Ornamental,50,15,12-05-2024
+742,Sea Holly,Flowering,60,20,12-10-2024
+743,Spiderwort,Ornamental,45,16,12-15-2024
+744,Star Jasmine,Flowering,60,22,01-01-2024
+745,Sunflower,Flowering,45,12,01-05-2024
+746,Sweet Alyssum,Flowering,60,14,01-10-2024
+747,Tigridia,Flowering,50,20,01-15-2024
+748,Trailing Jade,Succulent,60,16,01-20-2024
+749,Tradescantia,Ornamental,45,18,02-01-2024
+750,Verbena,Flowering,60,15,02-05-2024
+751,Vinca,Flowering,50,12,02-10-2024
+752,Wandering Jew,Ornamental,60,14,02-15-2024
+753,Water Lily,Ornamental,45,28,03-01-2024
+754,Yucca,Ornamental,60,25,03-05-2024
+755,African Violet,Flowering,50,18,03-10-2024
+756,Agave,Succulent,45,22,03-15-2024
+757,Ageratum,Flowering,60,16,04-01-2024
+758,Amaryllis,Flowering,50,20,04-05-2024
+759,Angelonia,Flowering,60,14,04-10-2024
+760,Bacopa,Flowering,45,12,04-15-2024
+761,Begonia,Flowering,60,18,05-01-2024
+762,Cactus,Succulent,45,10,05-05-2024
+763,Canne Lily,Flowering,60,25,05-10-2024
+764,Carnivorous Plant,Ornamental,45,30,05-15-2024
+765,Celosia,Flowering,60,17,06-01-2024
+766,Clematis,Flowering,50,22,06-05-2024
+767,Clivia,Flowering,60,20,06-10-2024
+768,Corn Salad,Vegetable,45,10,06-15-2024
+769,Crassula,Succulent,60,18,07-01-2024
+770,Cuphea,Flowering,45,15,07-05-2024
+771,Dianthus,Flowering,60,12,07-10-2024
+772,Echinacea,Flowering,50,19,07-15-2024
+773,Ensete,Ornamental,60,30,08-01-2024
+774,Fennel,Herb,45,8,08-05-2024
+775,Fern,Ornamental,60,20,08-10-2024
+776,Heliotropium,Flowering,45,16,08-15-2024
+777,Hyacinth,Flowering,60,14,09-01-2024
+778,Indian Pipe,Ornamental,45,25,09-05-2024
+779,Ixora,Flowering,60,18,09-10-2024
+780,Jasmine,Flowering,45,22,09-15-2024
+781,Kangaroo Paw,Flowering,60,20,10-01-2024
+782,Kalanchoe,Succulent,50,14,10-05-2024
+783,Lobelia,Flowering,60,15,10-10-2024
+784,Mandevilla,Flowering,45,22,10-15-2024
+785,Maranta,Ornamental,60,16,11-01-2024
+786,Petunia,Flowering,50,17,11-05-2024
+787,Phlox,Flowering,60,20,11-10-2024
+788,Plumbago,Flowering,45,15,11-15-2024
+789,Portulaca,Flowering,60,12,12-01-2024
+790,Pothos,Ornamental,45,14,12-05-2024
+791,Ranunculus,Flowering,60,20,12-10-2024
+792,Rosemary,Herb,50,12,12-15-2024
+793,Rudbeckia,Flowering,60,16,01-01-2024
+794,Salvia,Flowering,45,18,01-05-2024
+795,Scabiosa,Flowering,60,20,01-10-2024
+796,Senecio,Succulent,45,22,01-15-2024
+797,Strelitzia,Flowering,60,30,02-01-2024
+798,Thunbergia,Flowering,50,18,02-05-2024
+799,Tuberose,Flowering,60,25,02-10-2024
+800,Umbrella Plant,Ornamental,45,20,02-15-2024
+801,Verbena,Flowering,60,15,03-01-2024
+802,Vinca,Flowering,50,12,03-05-2024
+803,Wax Begonia,Flowering,60,18,03-10-2024
+804,Wintergreen,Ornamental,45,25,03-15-2024
+805,Yarrow,Flowering,60,20,04-01-2024
+806,Zebra Plant,Ornamental,45,22,04-05-2024
+807,Zinnia,Flowering,60,16,04-10-2024
+808,Aloe,Succulent,50,14,04-15-2024
+809,African Lily,Flowering,60,20,05-01-2024
+810,Alocasia,Ornamental,45,18,05-05-2024
+811,Amaranth,Vegetable,60,7,05-10-2024
+812,Anthurium,Flowering,45,25,05-15-2024
+813,Asparagus Fern,Ornamental,60,15,06-01-2024
+814,Balsam,Flowering,50,12,06-05-2024
+815,Bamboo Palm,Ornamental,60,28,06-10-2024
+816,Bellflower,Flowering,45,13,06-15-2024
+817,Black-eyed Susan,Flowering,60,14,07-01-2024
+818,Bluebell,Flowering,50,10,07-05-2024
+819,Bougainvillea,Flowering,60,20,07-10-2024
+820,Brazilian Pepper,Ornamental,45,22,07-15-2024
+821,Canna Lily,Flowering,60,18,08-01-2024
+822,Canthaloupe,Vegetable,45,12,08-05-2024
+823,Cardoon,Vegetable,60,14,08-10-2024
+824,Cassia,Flowering,45,16,08-15-2024
+825,Chinese Evergreen,Ornamental,60,14,09-01-2024
+826,Chrysanthemum,Flowering,45,19,09-05-2024
+827,Coleus,Ornamental,60,15,09-10-2024
+828,Cornflower,Flowering,45,12,09-15-2024
+829,Croton,Ornamental,60,20,10-01-2024
+830,Dahlia,Flowering,45,22,10-05-2024
+831,Delphinium,Flowering,60,25,10-10-2024
+832,Devil?s Ivy,Ornamental,45,18,10-15-2024
+833,Eucalyptus,Ornamental,60,28,11-01-2024
+834,Fatsia,Ornamental,45,20,11-05-2024
+835,Fuchsia,Flowering,60,22,11-10-2024
+836,Geranium,Flowering,45,14,11-15-2024
+837,Gloxinia,Flowering,60,16,12-01-2024
+838,Goldfish Plant,Ornamental,45,18,12-05-2024
+839,Hoya,Ornamental,60,25,12-10-2024
+840,Kangaroo Paw,Flowering,45,19,12-15-2024
+841,Acalypha,Ornamental,60,14,01-01-2024
+842,Acorn Squash,Vegetable,45,10,01-05-2024
+843,Aechmea,Ornamental,60,18,01-10-2024
+844,Angelonia,Flowering,50,20,01-15-2024
+845,Asclepias,Flowering,60,17,01-20-2024
+846,Astilbe,Flowering,45,22,02-01-2024
+847,Aubrieta,Flowering,60,15,02-05-2024
+848,Bacopa,Flowering,45,12,02-10-2024
+849,Begonia,Flowering,60,18,02-15-2024
+850,Bergenia,Ornamental,45,20,03-01-2024
+851,Bougainvillea,Flowering,60,22,03-05-2024
+852,Bromeliad,Ornamental,45,25,03-10-2024
+853,Cabbage,Vegetable,60,12,03-15-2024
+854,Campanula,Flowering,45,14,04-01-2024
+855,Carnation,Flowering,60,16,04-05-2024
+856,Celosia,Flowering,45,20,04-10-2024
+857,Chrysanthemum,Flowering,60,18,04-15-2024
+858,Clematis,Flowering,45,22,05-01-2024
+859,Cucumber,Vegetable,60,14,05-05-2024
+860,Dahlia,Flowering,45,25,05-10-2024
+861,Delphinium,Flowering,60,20,05-15-2024
+862,Devil?s Ivy,Ornamental,45,18,06-01-2024
+863,Dusty Miller,Ornamental,60,16,06-05-2024
+864,Echinacea,Flowering,45,19,06-10-2024
+865,Fatsia,Ornamental,60,22,06-15-2024
+866,Gazania,Flowering,45,14,07-01-2024
+867,Geranium,Flowering,60,18,07-05-2024
+868,Gladiolus,Flowering,45,20,07-10-2024
+869,Heliotrope,Flowering,60,15,07-15-2024
+870,Hibiscus,Flowering,45,22,08-01-2024
+871,Hosta,Ornamental,60,20,08-05-2024
+872,Hyacinth,Flowering,45,16,08-10-2024
+873,Jasmine,Flowering,60,18,08-15-2024
+874,Lobelia,Flowering,45,12,09-01-2024
+875,Maranta,Ornamental,60,20,09-05-2024
+876,Mexican Sunflower,Flowering,45,14,09-10-2024
+877,Monstera,Ornamental,60,22,09-15-2024
+878,Nasturtium,Flowering,45,16,10-01-2024
+879,New Guinea Impatiens,Flowering,60,18,10-05-2024
+880,Osteospermum,Flowering,45,15,10-10-2024
+881,Petunia,Flowering,60,12,10-15-2024
+882,Phlox,Flowering,45,20,11-01-2024
+883,Pothos,Ornamental,60,14,11-05-2024
+884,Primrose,Flowering,45,22,11-10-2024
+885,Salvia,Flowering,60,18,11-15-2024
+886,Scabiosa,Flowering,45,20,12-01-2024
+887,Sedum,Succulent,60,16,12-05-2024
+888,Strelitzia,Flowering,45,30,12-10-2024
+889,Sweet Pea,Flowering,60,14,01-01-2024
+890,Tradescantia,Ornamental,45,18,01-05-2024
+891,Verbena,Flowering,60,15,01-10-2024
+892,Vinca,Flowering,45,12,01-15-2024
+893,Water Lettuce,Ornamental,60,20,02-01-2024
+894,Wax Begonia,Flowering,45,14,02-05-2024
+895,Zinnia,Flowering,60,16,02-10-2024
+896,Abutilon,Flowering,45,18,02-15-2024
+897,Achillea,Flowering,60,22,03-01-2024
+898,Agave,Succulent,45,20,03-05-2024
+899,Aloe Vera,Succulent,60,15,03-10-2024
+900,Anemone,Flowering,45,25,03-15-2024
+901,Arborvitae,Ornamental,60,30,04-01-2024
+902,Astilbe,Flowering,45,22,04-05-2024
+903,Begonia,Flowering,60,18,04-10-2024
+904,Bellflower,Flowering,45,13,04-15-2024
+905,Black-eyed Susan,Flowering,60,14,05-01-2024
+906,Bluebell,Flowering,45,10,05-05-2024
+907,Bougainvillea,Flowering,60,20,05-10-2024
+908,Camellia,Flowering,45,22,05-15-2024
+909,Cardinal Flower,Flowering,60,15,06-01-2024
+910,Cineraria,Flowering,45,12,06-05-2024
+911,Colocasia,Ornamental,60,20,06-10-2024
+912,Coneflower,Flowering,45,16,06-15-2024
+913,Croton,Ornamental,60,18,07-01-2024
+914,Dahlia,Flowering,45,22,07-05-2024
+915,Delphinium,Flowering,60,25,07-10-2024
+916,Dianthus,Flowering,45,12,07-15-2024
+917,Fuchsia,Flowering,60,20,08-01-2024
+918,Gardenia,Flowering,45,25,08-05-2024
+919,Geranium,Flowering,60,18,08-10-2024
+920,Gladiolus,Flowering,45,20,08-15-2024
+921,Heliotrope,Flowering,60,15,09-01-2024
+922,Hosta,Ornamental,45,22,09-05-2024
+923,Impatiens,Flowering,60,18,09-10-2024
+924,Jasmine,Flowering,45,20,09-15-2024
+925,Kalanchoe,Succulent,60,14,10-01-2024
+926,Lantana,Flowering,45,22,10-05-2024
+927,Lobelia,Flowering,60,16,10-10-2024
+928,Maranta,Ornamental,45,20,10-15-2024
+929,Mandevilla,Flowering,60,22,11-01-2024
+930,Monstera,Ornamental,45,25,11-05-2024
+931,Morning Glory,Flowering,60,18,11-10-2024
+932,New Guinea Impatiens,Flowering,45,20,11-15-2024
+933,Petunia,Flowering,60,12,12-01-2024
+934,Phlox,Flowering,45,16,12-05-2024
+935,Plumbago,Flowering,60,20,12-10-2024
+936,Primrose,Flowering,45,22,12-15-2024
+937,Sweet William,Flowering,60,18,01-01-2024
+938,Tradescantia,Ornamental,45,16,01-05-2024
+939,Verbena,Flowering,60,15,01-10-2024
+940,Vinca,Flowering,45,12,01-15-2024
+941,Water Lily,Ornamental,60,20,02-01-2024
+942,Wax Begonia,Flowering,45,14,02-05-2024
+943,Zinnia,Flowering,60,16,02-10-2024
+944,African Violet,Flowering,45,18,02-15-2024
+945,Agapanthus,Flowering,60,20,03-01-2024
+946,Amaranth,Vegetable,45,12,03-05-2024
+947,Angelonia,Flowering,60,17,03-10-2024
+948,Arborvitae,Ornamental,45,28,03-15-2024
+949,Azalea,Flowering,60,22,04-01-2024
+950,Bleeding Heart,Flowering,45,18,04-05-2024
+951,Bougainvillea,Flowering,60,20,04-10-2024
+952,Canna Lily,Flowering,45,22,04-15-2024
+953,Carnation,Flowering,60,14,05-01-2024
+954,Celosia,Flowering,45,18,05-05-2024
+955,Chinese Lantern,Ornamental,60,25,05-10-2024
+956,Clematis,Flowering,45,20,05-15-2024
+957,Coleus,Ornamental,60,16,06-01-2024
+958,Coneflower,Flowering,45,12,06-05-2024
+959,Cosmos,Flowering,60,18,06-10-2024
+960,Croton,Ornamental,45,20,06-15-2024
+961,Dahlia,Flowering,60,22,07-01-2024
+962,Delphinium,Flowering,45,25,07-05-2024
+963,Dianthus,Flowering,60,16,07-10-2024
+964,Dusty Miller,Ornamental,45,18,07-15-2024
+965,Echinacea,Flowering,60,22,08-01-2024
+966,Gardenia,Flowering,45,25,08-05-2024
+967,Geranium,Flowering,60,20,08-10-2024
+968,Gladiolus,Flowering,45,14,08-15-2024
+969,Heliotrope,Flowering,60,18,09-01-2024
+970,Hosta,Ornamental,45,22,09-05-2024
+971,Impatiens,Flowering,60,16,09-10-2024
+972,Jasmine,Flowering,45,20,09-15-2024
+973,Kalanchoe,Succulent,60,14,10-01-2024
+974,Lantana,Flowering,45,20,10-05-2024
+975,Lobelia,Flowering,60,18,10-10-2024
+976,Maranta,Ornamental,45,22,10-15-2024
+977,Mandevilla,Flowering,60,25,11-01-2024
+978,Monstera,Ornamental,45,25,11-05-2024
+979,Morning Glory,Flowering,60,18,11-10-2024
+980,New Guinea Impatiens,Flowering,45,22,11-15-2024
+981,Petunia,Flowering,60,12,12-01-2024
+982,Phlox,Flowering,45,16,12-05-2024
+983,Plumbago,Flowering,60,20,12-10-2024
+984,Primrose,Flowering,45,22,12-15-2024
+985,Sweet William,Flowering,60,18,01-01-2024
+986,Tradescantia,Ornamental,45,16,01-05-2024
+987,Verbena,Flowering,60,15,01-10-2024
+988,Vinca,Flowering,45,12,01-15-2024
+989,Water Lily,Ornamental,60,20,02-01-2024
+990,Wax Begonia,Flowering,45,14,02-05-2024
+991,Zinnia,Flowering,60,16,02-10-2024
+992,African Violet,Flowering,45,18,02-15-2024
+993,Agapanthus,Flowering,60,20,03-01-2024
+994,Amaranth,Vegetable,45,12,03-05-2024
+995,Angelonia,Flowering,60,17,03-10-2024
+996,Arborvitae,Ornamental,45,28,03-15-2024
+997,Azalea,Flowering,60,22,04-01-2024
+998,Bleeding Heart,Flowering,45,18,04-05-2024
+999,Bougainvillea,Flowering,60,20,04-10-2024
+1000,Canna Lily,Flowering,45,22,04-15-2024
+1001,Alocasia,Ornamental,50,30,05-01-2024
+1002,Amaranth,Vegetable,40,14,05-05-2024
+1003,Aloe Vera,Succulent,55,12,05-10-2024
+1004,Anthurium,Flowering,50,25,05-15-2024
+1005,Arecaceae,Ornamental,60,35,06-01-2024
+1006,Aster,Flowering,45,18,06-05-2024
+1007,Beardtongue,Flowering,50,20,06-10-2024
+1008,Bluebells,Flowering,45,16,06-15-2024
+1009,Brunnera,Flowering,50,22,07-01-2024
+1010,Buttercup,Flowering,60,12,07-05-2024
+1011,Calendula,Flowering,45,14,07-10-2024
+1012,Campanula,Flowering,55,18,07-15-2024
+1013,Cardoon,Vegetable,50,20,08-01-2024
+1014,Catmint,Flowering,45,16,08-05-2024
+1015,Chives,Herb,60,10,08-10-2024
+1016,Clematis,Flowering,50,22,08-15-2024
+1017,Coneflower,Flowering,55,18,09-01-2024
+1018,Coriander,Herb,45,12,09-05-2024
+1019,Cornflower,Flowering,50,14,09-10-2024
+1020,Dahlia,Flowering,60,24,09-15-2024
+1021,Dandelion,Flowering,45,10,10-01-2024
+1022,Daylily,Flowering,50,20,10-05-2024
+1023,Echinacea,Flowering,60,22,10-10-2024
+1024,Eleagnus,Ornamental,50,28,10-15-2024
+1025,Epimedium,Flowering,45,16,11-01-2024
+1026,Foxglove,Flowering,50,20,11-05-2024
+1027,Gazania,Flowering,60,18,11-10-2024
+1028,Gerbera,Flowering,45,22,11-15-2024
+1029,Grape Hyacinth,Flowering,50,14,12-01-2024
+1030,Grevillea,Ornamental,60,30,12-05-2024
+1031,Heliotrope,Flowering,45,18,12-10-2024
+1032,Hostas,Ornamental,50,22,12-15-2024
+1033,Hyacinth,Flowering,55,16,01-01-2024
+1034,Ice Plant,Succulent,45,12,01-05-2024
+1035,Japanese Maple,Ornamental,50,35,01-10-2024
+1036,Jasmine,Flowering,60,22,01-15-2024
+1037,Kangaroo Paw,Flowering,45,24,02-01-2024
+1038,Lantana,Flowering,50,20,02-05-2024
+1039,Lemon Balm,Herb,60,14,02-10-2024
+1040,Lobelia,Flowering,45,16,02-15-2024
+1041,Loropetalum,Ornamental,50,28,03-01-2024
+1042,Mint,Herb,60,12,03-05-2024
+1043,Monkshood,Flowering,45,18,03-10-2024
+1044,Nasturtium,Flowering,50,14,03-15-2024
+1045,New Zealand Flax,Ornamental,60,22,04-01-2024
+1046,Peony,Flowering,45,25,04-05-2024
+1047,Periwinkle,Flowering,50,16,04-10-2024
+1048,Petunia,Flowering,60,12,04-15-2024
+1049,Phlox,Flowering,45,18,05-01-2024
+1050,Poppy,Flowering,50,22,05-05-2024
+1051,Prickly Pear,Succulent,60,20,05-10-2024
+1052,Rudbeckia,Flowering,45,16,05-15-2024
+1053,Sage,Herb,60,14,06-01-2024
+1054,Salvia,Flowering,45,18,06-05-2024
+1055,Scaevola,Flowering,50,20,06-10-2024
+1056,Sedum,Succulent,60,16,06-15-2024
+1057,Sunflower,Flowering,45,14,07-01-2024
+1058,Sweet Alyssum,Flowering,50,12,07-05-2024
+1059,Sweet Potato Vine,Ornamental,60,18,07-10-2024
+1060,Thymus,Herb,45,16,07-15-2024
+1061,Verbena,Flowering,50,14,08-01-2024
+1062,Viburnum,Ornamental,60,30,08-05-2024
+1063,Wisteria,Flowering,45,28,08-10-2024
+1064,Yarrow,Flowering,50,20,08-15-2024
+1065,Yucca,Ornamental,60,25,09-01-2024
+1066,Zinnia,Flowering,45,16,09-05-2024
+1067,Aloe,Succulent,50,12,09-10-2024
+1068,Balsam,Flowering,60,18,09-15-2024
+1069,Begonia,Flowering,45,20,10-01-2024
+1070,Bougainvillea,Flowering,50,22,10-05-2024
+1071,Calla Lily,Flowering,60,25,10-10-2024
+1072,Canna,Flowering,45,18,10-15-2024
+1073,Cast Iron Plant,Ornamental,50,30,11-01-2024
+1074,Cherry Blossom,Flowering,60,35,11-05-2024
+1075,Chives,Herb,45,10,11-10-2024
+1076,Clivia,Flowering,50,22,11-15-2024
+1077,Croton,Ornamental,60,20,12-01-2024
+1078,Dieffenbachia,Ornamental,45,16,12-05-2024
+1079,Dusty Miller,Ornamental,50,18,12-10-2024
+1080,Edging Lobelia,Flowering,60,12,12-15-2024
+1081,Epimedium,Flowering,45,22,01-01-2024
+1082,Foxglove,Flowering,50,20,01-05-2024
+1083,French Lavender,Herb,60,14,01-10-2024
+1084,Graptopetalum,Succulent,45,12,01-15-2024
+1085,Heliotrope,Flowering,60,16,02-01-2024
+1086,Hoya,Ornamental,45,22,02-05-2024
+1087,Iberis,Flowering,50,20,02-10-2024
+1088,Impatiens,Flowering,60,16,02-15-2024
+1089,Kalanchoe,Succulent,45,18,03-01-2024
+1090,Lantana,Flowering,50,22,03-05-2024
+1091,Ligularia,Flowering,60,18,03-10-2024
+1092,Lithops,Succulent,45,15,03-15-2024
+1093,Mandevilla,Flowering,60,20,04-01-2024
+1094,Maranta,Ornamental,45,25,04-05-2024
+1095,Meadowsweet,Flowering,60,22,04-10-2024
+1096,Monstera,Ornamental,45,30,04-15-2024
+1097,Nasturtium,Flowering,50,14,05-01-2024
+1098,Nepeta,Flowering,60,16,05-05-2024
+1099,Papyrus,Ornamental,45,28,05-10-2024
+1100,Peperomia,Ornamental,60,20,05-15-2024
+1101,Petunia,Flowering,45,12,06-01-2024
+1102,Phlox,Flowering,60,20,06-05-2024
+1103,Pothos,Ornamental,45,18,06-10-2024
+1104,Rattlesnake Plant,Ornamental,60,22,06-15-2024
+1105,Rudbeckia,Flowering,45,18,07-01-2024
+1106,Salvia,Flowering,60,20,07-05-2024
+1107,Sedum,Succulent,45,16,07-10-2024
+1108,Shasta Daisy,Flowering,60,14,07-15-2024
+1109,Silverbush,Ornamental,45,20,08-01-2024
+1110,Spider Plant,Ornamental,60,18,08-05-2024
+1111,Statice,Flowering,45,22,08-10-2024
+1112,Streptocarpus,Flowering,50,18,08-15-2024
+1113,Sunflower,Flowering,60,14,09-01-2024
+1114,Sweet William,Flowering,45,20,09-05-2024
+1115,Tansy,Herb,60,16,09-10-2024
+1116,Tiger Lily,Flowering,45,18,09-15-2024
+1117,Trillium,Flowering,50,24,10-01-2024
+1118,Verbena,Flowering,60,20,10-05-2024
+1119,Vinca,Flowering,45,14,10-10-2024
+1120,Winter Jasmine,Flowering,60,22,10-15-2024
+1121,Wisteria,Flowering,50,35,11-01-2024
+1122,Zinnia,Flowering,60,18,11-05-2024
+1123,Angelonia,Flowering,45,16,11-10-2024
+1124,Ageratum,Flowering,60,20,11-15-2024
+1125,Bamboo Palm,Ornamental,45,30,12-01-2024
+1126,Banana Plant,Ornamental,60,35,12-05-2024
+1127,Begonia,Flowering,45,22,12-10-2024
+1128,Blue Star Creeper,Ornamental,60,16,12-15-2024
+1129,Bougainvillea,Flowering,45,20,01-01-2024
+1130,Bromeliad,Ornamental,60,22,01-05-2024
+1131,Calla Lily,Flowering,45,30,01-10-2024
+1132,Chinese Evergreen,Ornamental,60,18,01-15-2024
+1133,Crocus,Flowering,45,12,02-01-2024
+1134,Daphne,Flowering,60,20,02-05-2024
+1135,Fuchsia,Flowering,45,22,02-10-2024
+1136,Gardenia,Flowering,60,30,02-15-2024
+1137,Goldfish Plant,Ornamental,45,28,03-01-2024
+1138,Hosta,Ornamental,60,18,03-05-2024
+1139,Indian Paintbrush,Flowering,45,24,03-10-2024
+1140,Liriope,Ornamental,60,20,03-15-2024
+1141,Lotus,Flowering,45,30,04-01-2024
+1142,Marigold,Flowering,60,16,04-05-2024
+1143,Monarda,Flowering,45,22,04-10-2024
+1144,Nandina,Ornamental,60,28,04-15-2024
+1145,Oregano,Herb,45,12,05-01-2024
+1146,Phlox,Flowering,60,20,05-05-2024
+1147,Pineapple Sage,Herb,45,16,05-10-2024
+1148,Rudbeckia,Flowering,60,18,05-15-2024
+1149,Salvia,Flowering,45,20,06-01-2024
+1150,Sand Verbena,Flowering,60,14,06-05-2024
+1151,Scented Geranium,Herb,45,18,06-10-2024
+1152,Snapdragon,Flowering,60,22,06-15-2024
+1153,St. John's Wort,Herb,45,14,07-01-2024
+1154,Sweet Corn,Vegetable,60,20,07-05-2024
+1155,Thymus,Herb,45,16,07-10-2024
+1156,Tropical Hibiscus,Flowering,60,30,07-15-2024
+1157,Verbena,Flowering,45,20,08-01-2024
+1158,Viola,Flowering,60,16,08-05-2024
+1159,Wisteria,Flowering,45,28,08-10-2024
+1160,Zinnia,Flowering,60,18,08-15-2024
+1161,Alocasia,Ornamental,45,30,09-01-2024
+1162,American Beautyberry,Ornamental,60,28,09-05-2024
+1163,Bluebells,Flowering,45,14,09-10-2024
+1164,Cactus,Succulent,60,20,09-15-2024
+1165,Centaurea,Flowering,45,18,10-01-2024
+1166,Coral Bells,Ornamental,60,22,10-05-2024
+1167,Creeping Jenny,Ornamental,45,16,10-10-2024
+1168,Daisy,Flowering,60,14,10-15-2024
+1169,Delphinium,Flowering,45,20,11-01-2024
+1170,Eucalyptus,Ornamental,60,25,11-05-2024
+1171,Gaillardia,Flowering,45,18,11-10-2024
+1172,Heliotrope,Flowering,60,20,11-15-2024
+1173,Hollyhock,Flowering,45,24,12-01-2024
+1174,Kalanchoe,Succulent,60,18,12-05-2024
+1175,Lantana,Flowering,45,22,12-10-2024
+1176,Lobelia,Flowering,60,16,12-15-2024
+1177,Monkey Grass,Ornamental,45,20,01-01-2024
+1178,Pansy,Flowering,60,16,01-05-2024
+1179,Peperomia,Ornamental,45,18,01-10-2024
+1180,Sage,Herb,60,14,01-15-2024
+1181,Sansevieria,Ornamental,45,22,02-01-2024
+1182,Spiderwort,Flowering,60,18,02-05-2024
+1183,Sunflower,Flowering,45,20,02-10-2024
+1184,Sweet Potatoes,Vegetable,60,22,02-15-2024
+1185,Tiger Lily,Flowering,45,24,03-01-2024
+1186,Verbena,Flowering,60,18,03-05-2024
+1187,Water Hyacinth,Ornamental,45,20,03-10-2024
+1188,Yarrow,Flowering,60,22,03-15-2024
+1189,Yucca,Ornamental,45,25,04-01-2024
+1190,Angelonia,Flowering,60,20,04-05-2024
+1191,Basil,Herb,45,10,04-10-2024
+1192,Cucumber,Vegetable,60,18,04-15-2024
+1193,Echinacea,Flowering,45,22,05-01-2024
+1194,Fuchsia,Flowering,60,25,05-05-2024
+1195,Heliopsis,Flowering,45,18,05-10-2024
+1196,Hostas,Ornamental,60,22,05-15-2024
+1197,Maranta,Ornamental,45,30,06-01-2024
+1198,Petunia,Flowering,60,16,06-05-2024
+1199,Phlox,Flowering,45,20,06-10-2024
+1200,Stokesia,Flowering,60,24,06-15-2024
+1201,Astilbe,Flowering,45,22,07-01-2024
+1202,Begonia,Flowering,60,22,07-05-2024
+1203,Dahlia,Flowering,45,18,07-10-2024
+1204,Echinacea,Flowering,60,20,07-15-2024
+1205,Sunflower,Flowering,45,14,08-01-2024
+1206,Sweet William,Flowering,60,18,08-05-2024
+1207,Wisteria,Flowering,45,35,08-10-2024
+1208,Zinnia,Flowering,60,16,08-15-2024
+1209,Angelonia,Flowering,45,20,09-01-2024
+1210,Chrysanthemum,Flowering,60,18,09-05-2024
+1211,Heliotrope,Flowering,45,22,09-10-2024
+1212,Ice Plant,Succulent,60,20,09-15-2024
+1213,Maranta,Ornamental,45,30,10-01-2024
+1214,Petunia,Flowering,60,14,10-05-2024
+1215,Phlox,Flowering,45,20,10-10-2024
+1216,Red Hot Poker,Flowering,60,22,10-15-2024
+1217,Sweet Potato,Vegetable,45,18,11-01-2024
+1218,Tansy,Herb,60,16,11-05-2024
+1219,Verbena,Flowering,45,18,11-10-2024
+1220,Winter Jasmine,Flowering,60,22,11-15-2024
+1221,Zinnia,Flowering,45,18,12-01-2024
+1222,Croton,Ornamental,60,20,12-05-2024
+1223,Dusty Miller,Ornamental,45,16,12-10-2024
+1224,Epimedium,Flowering,60,22,12-15-2024
+1225,Ghost Plant,Succulent,45,24,01-01-2024
+1226,Miniature Rose,Flowering,60,18,01-05-2024
+1227,Orchid,Flowering,45,28,01-10-2024
+1228,Snowdrop,Flowering,60,14,01-15-2024
+1229,Trillium,Flowering,45,24,02-01-2024
+1230,Bluebells,Flowering,60,20,02-05-2024
+1231,Celosia,Flowering,45,18,02-10-2024
+1232,Foxglove,Flowering,60,16,02-15-2024
+1233,Gardenia,Flowering,45,28,03-01-2024
+1234,Iris,Flowering,60,20,03-05-2024
+1235,Lobelia,Flowering,45,16,03-10-2024
+1236,Orchid,Flowering,60,24,03-15-2024
+1237,Snowdrop,Flowering,45,20,04-01-2024
+1238,Sunflower,Flowering,60,14,04-05-2024
+1239,Tulip,Flowering,45,18,04-10-2024
+1240,Verbena,Flowering,60,20,04-15-2024
+1241,Zinnia,Flowering,45,18,05-01-2024
+1242,Balsam,Flowering,60,18,05-05-2024
+1243,Canna,Flowering,45,20,05-10-2024
+1244,Daylily,Flowering,60,22,05-15-2024
+1245,Foxglove,Flowering,45,22,06-01-2024
+1246,Heliotrope,Flowering,60,16,06-05-2024
+1247,Shasta Daisy,Flowering,45,20,06-10-2024
+1248,Verbena,Flowering,60,22,06-15-2024
+1249,Calla Lily,Flowering,45,28,07-01-2024
+1250,Echinacea,Flowering,60,20,07-05-2024
+1251,Petunia,Flowering,45,14,07-10-2024
+1252,Sunflower,Flowering,60,14,07-15-2024
+1253,Tansy,Herb,45,16,08-01-2024
+1254,Tropical Hibiscus,Flowering,60,30,08-05-2024
+1255,Zinnia,Flowering,45,16,08-10-2024
+1256,Angelonia,Flowering,60,18,08-15-2024
+1257,Delphinium,Flowering,45,20,09-01-2024
+1258,Mandevilla,Flowering,60,22,09-05-2024
+1259,Statice,Flowering,45,22,09-10-2024
+1260,Thyme,Herb,60,16,09-15-2024
+1261,Winter Jasmine,Flowering,45,20,10-01-2024
+1262,Wisteria,Flowering,60,30,10-05-2024
+1263,Blue Star Creeper,Ornamental,45,16,10-10-2024
+1264,Dahlia,Flowering,60,22,10-15-2024
+1265,Peperomia,Ornamental,45,20,11-01-2024
+1266,Sage,Herb,60,14,11-05-2024
+1267,Strawberry,Fruit,45,14,11-10-2024
+1268,Trillium,Flowering,60,20,11-15-2024
+1269,Pansy,Flowering,45,16,12-01-2024
+1270,Rosemary,Herb,60,18,12-05-2024
+1271,Cyclamen,Flowering,45,20,12-10-2024
+1272,Dusty Miller,Ornamental,60,18,12-15-2024
+1273,Acacia,Ornamental,50,24,01-02-2024
+1274,Amaranth,Flowering,65,15,01-07-2024
+1275,Anthurium,Flowering,55,28,01-12-2024
+1276,Aster,Flowering,70,20,01-17-2024
+1277,Bamboos,Ornamental,50,30,01-22-2024
+1278,Bellflower,Flowering,60,18,01-27-2024
+1279,Begonia,Flowering,50,22,02-01-2024
+1280,Bletilla,Flowering,55,26,02-06-2024
+1281,Blueberry,Fruit,60,25,02-11-2024
+1282,Bromeliad,Ornamental,45,32,02-16-2024
+1283,Cineraria,Flowering,55,20,02-21-2024
+1284,Clivia,Flowering,60,28,02-26-2024
+1285,Coleus,Ornamental,45,18,03-02-2024
+1286,Crocus,Flowering,70,14,03-07-2024
+1287,Dahlia,Flowering,50,22,03-12-2024
+1288,Dianthus,Flowering,60,16,03-17-2024
+1289,Echinacea,Flowering,50,20,03-22-2024
+1290,Fatsia,Ornamental,45,24,03-27-2024
+1291,Forget-Me-Not,Flowering,55,12,04-01-2024
+1292,Gloxinia,Flowering,60,20,04-06-2024
+1293,Heliotrope,Flowering,45,22,04-11-2024
+1294,Hostas,Ornamental,60,18,04-16-2024
+1295,Kangaroo Paw,Flowering,55,28,04-21-2024
+1296,Lobelia,Flowering,60,16,04-26-2024
+1297,Maranta,Ornamental,50,30,05-01-2024
+1298,Mandevilla,Flowering,55,26,05-06-2024
+1299,Mimosas,Flowering,60,22,05-11-2024
+1300,Monstera,Ornamental,50,32,05-16-2024
+1301,Nasturtium,Flowering,65,14,05-21-2024
+1302,Neoregalia,Ornamental,45,28,05-26-2024
+1303,New Guinea Impatiens,Flowering,55,18,06-01-2024
+1304,Olive Tree,Fruit,50,30,06-06-2024
+1305,Oncidium,Flowering,60,22,06-11-2024
+1306,Pansy,Flowering,55,16,06-16-2024
+1307,Passion Flower,Flowering,50,24,06-21-2024
+1308,Peony,Flowering,60,28,06-26-2024
+1309,Periwinkle,Flowering,55,14,07-01-2024
+1310,Petunia,Flowering,50,18,07-06-2024
+1311,Phlox,Flowering,60,22,07-11-2024
+1312,Plumbago,Flowering,55,20,07-16-2024
+1313,Portulaca,Flowering,50,14,07-21-2024
+1314,Primrose,Flowering,60,18,07-26-2024
+1315,Raspberries,Fruit,45,25,08-01-2024
+1316,Rudbeckia,Flowering,50,16,08-06-2024
+1317,Salvia,Flowering,60,22,08-11-2024
+1318,Scaevola,Flowering,55,18,08-16-2024
+1319,Schefflera,Ornamental,50,28,08-21-2024
+1320,Sedum,Succulent,60,16,08-26-2024
+1321,Stephanotis,Flowering,45,22,09-01-2024
+1322,Sunflower,Flowering,50,14,09-06-2024
+1323,Sweet Pea,Flowering,60,18,09-11-2024
+1324,Tradescantia,Ornamental,55,20,09-16-2024
+1325,Verbena,Flowering,50,22,09-21-2024
+1326,Wisteria,Flowering,60,30,09-26-2024
+1327,Yarrow,Flowering,55,18,10-01-2024
+1328,Aloe Vera,Succulent,50,24,10-06-2024
+1329,Astilbe,Flowering,60,22,10-11-2024
+1330,Balsam,Flowering,55,18,10-16-2024
+1331,Bougainvillea,Flowering,50,26,10-21-2024
+1332,Calla Lily,Flowering,60,28,10-26-2024
+1333,Canna Lily,Flowering,45,24,11-01-2024
+1334,Cardoon,Vegetable,55,18,11-06-2024
+1335,Chamomile,Herb,60,14,11-11-2024
+1336,Chrysanthemum,Flowering,50,20,11-16-2024
+1337,Coral Bells,Ornamental,45,22,11-21-2024
+1338,Curry Plant,Herb,60,16,11-26-2024
+1339,Fuchsia,Flowering,55,24,12-01-2024
+1340,Gardenia,Flowering,60,28,12-06-2024
+1341,Hoya,Ornamental,45,30,12-11-2024
+1342,Kalanchoe,Succulent,55,18,12-16-2024
+1343,Lavender,Herb,60,20,12-21-2024
+1344,Lobelia,Flowering,50,16,12-26-2024
+1345,Marigold,Flowering,60,12,01-02-2024
+1346,Nandina,Ornamental,45,20,01-07-2024
+1347,Nasturtium,Flowering,50,14,01-12-2024
+1348,Oxalis,Flowering,55,18,01-17-2024
+1349,Peony,Flowering,60,26,01-22-2024
+1350,Petunia,Flowering,50,18,01-27-2024
+1351,Pilea,Ornamental,60,22,02-01-2024
+1352,Poppy,Flowering,55,14,02-06-2024
+1353,Portulaca,Flowering,45,12,02-11-2024
+1354,Salvia,Flowering,60,22,02-16-2024
+1355,Sansevieria,Succulent,55,24,02-21-2024
+1356,Scabiosa,Flowering,45,20,02-26-2024
+1357,Strelitzia,Flowering,50,28,03-02-2024
+1358,Thymus,Herb,60,14,03-07-2024
+1359,Torenia,Flowering,55,18,03-12-2024
+1360,Tradescantia,Ornamental,45,20,03-17-2024
+1361,Tulip,Flowering,60,20,03-22-2024
+1362,Verbena,Flowering,55,22,03-27-2024
+1363,Violas,Flowering,60,16,04-01-2024
+1364,Watercress,Herb,50,18,04-06-2024
+1365,Zinnia,Flowering,60,18,04-11-2024
+1366,Aloe Vera,Succulent,45,20,04-16-2024
+1367,Amaranth,Flowering,60,15,04-21-2024
+1368,Angelonia,Flowering,55,22,04-26-2024
+1369,Aucuba,Ornamental,50,28,05-01-2024
+1370,Begonia,Flowering,60,22,05-06-2024
+1371,Black-eyed Susan,Flowering,55,20,05-11-2024
+1372,Bluebells,Flowering,45,20,05-16-2024
+1373,Cactus,Succulent,50,16,05-21-2024
+1374,Cineraria,Flowering,60,18,05-26-2024
+1375,Coral Bells,Ornamental,45,22,06-01-2024
+1376,Daylily,Flowering,55,20,06-06-2024
+1377,Dianthus,Flowering,60,18,06-11-2024
+1378,Echinacea,Flowering,50,22,06-16-2024
+1379,Foxglove,Flowering,60,16,06-21-2024
+1380,Gardenia,Flowering,55,28,06-26-2024
+1381,Heliotrope,Flowering,50,22,07-01-2024
+1382,Hostas,Ornamental,60,18,07-06-2024
+1383,Kalanchoe,Succulent,45,18,07-11-2024
+1384,Lobelia,Flowering,55,16,07-16-2024
+1385,Maranta,Ornamental,60,30,07-21-2024
+1386,New Guinea Impatiens,Flowering,50,18,07-26-2024
+1387,Petunia,Flowering,55,14,08-01-2024
+1388,Phlox,Flowering,60,22,08-06-2024
+1389,Poppy,Flowering,50,16,08-11-2024
+1390,Rudbeckia,Flowering,60,20,08-16-2024
+1391,Salvia,Flowering,45,22,08-21-2024
+1392,Scabiosa,Flowering,55,18,08-26-2024
+1393,Sweet William,Flowering,60,20,09-01-2024
+1394,Thymus,Herb,50,14,09-06-2024
+1395,Tradescantia,Ornamental,60,20,09-11-2024
+1396,Verbena,Flowering,45,22,09-16-2024
+1397,Watercress,Herb,50,18,09-21-2024
+1398,Zinnia,Flowering,60,18,09-26-2024
+1399,Azalea,Flowering,45,24,10-01-2024
+1400,Bellflower,Flowering,60,18,10-06-2024
+1401,Blue Star Creeper,Ornamental,50,16,10-11-2024
+1402,Bougainvillea,Flowering,55,26,10-16-2024
+1403,Calla Lily,Flowering,60,28,10-21-2024
+1404,Coral Bells,Ornamental,45,20,10-26-2024
+1405,Cress,Herb,50,12,11-01-2024
+1406,Daylily,Flowering,55,20,11-06-2024
+1407,Fuchsia,Flowering,60,24,11-11-2024
+1408,Heliotrope,Flowering,45,22,11-16-2024
+1409,Hoya,Ornamental,60,28,11-21-2024
+1410,Lavender,Herb,50,20,11-26-2024
+1411,Mandevilla,Flowering,55,26,12-01-2024
+1412,Maranta,Ornamental,60,30,12-06-2024
+1413,Nandina,Ornamental,50,22,12-11-2024
+1414,Pansy,Flowering,45,16,12-16-2024
+1415,Peony,Flowering,60,28,12-21-2024
+1416,Rosemary,Herb,50,22,12-26-2024
+1417,Schefflera,Ornamental,55,30,01-01-2023
+1418,Sweet Pea,Flowering,60,18,01-06-2023
+1419,Tradescantia,Ornamental,45,20,01-11-2023
+1420,Wisteria,Flowering,50,30,01-16-2023
+1421,Zinnia,Flowering,60,20,01-21-2023
+1422,Acalypha,Ornamental,45,22,02-01-2023
+1423,Adiantum,Fern,55,18,02-06-2023
+1424,Allamanda,Flowering,60,26,02-11-2023
+1425,Anemone,Flowering,50,24,02-16-2023
+1426,Angelonia,Flowering,45,20,02-21-2023
+1427,Aucuba,Ornamental,60,22,02-26-2023
+1428,Bacopa,Flowering,50,20,03-03-2023
+1429,Bergenia,Ornamental,55,18,03-08-2023
+1430,Calla Lily,Flowering,60,28,03-13-2023
+1431,Canna Lily,Flowering,50,24,03-18-2023
+1432,Celosia,Flowering,55,22,03-23-2023
+1433,Coleus,Ornamental,60,18,03-28-2023
+1434,Cress,Herb,50,12,04-02-2023
+1435,Cyclamen,Flowering,55,20,04-07-2023
+1436,Dahlia,Flowering,60,22,04-12-2023
+1437,Dichondra,Ornamental,45,24,04-17-2023
+1438,Dianthus,Flowering,60,18,04-22-2023
+1439,Echinacea,Flowering,50,20,04-27-2023
+1440,Epipremnum,Ornamental,60,16,05-02-2023
+1441,Euphorbia,Flowering,55,18,05-07-2023
+1442,Fuchsia,Flowering,60,26,05-12-2023
+1443,Gaillardia,Flowering,50,22,05-17-2023
+1444,Gallica Rose,Flowering,55,28,05-22-2023
+1445,Gazania,Flowering,60,20,05-27-2023
+1446,Ginger,Herb,45,18,06-01-2023
+1447,Heliotrope,Flowering,55,20,06-06-2023
+1448,Hosta,Ornamental,60,22,06-11-2023
+1449,Impatiens,Flowering,45,18,06-16-2023
+1450,Ixora,Flowering,60,26,06-21-2022
+1451,Jade Plant,Succulent,50,24,06-26-2022
+1452,Jasmine,Flowering,55,28,07-01-2022
+1453,Kalanchoe,Succulent,60,20,07-06-2022
+1454,Lilac,Flowering,45,22,07-11-2022
+1455,Lobelia,Flowering,60,18,07-16-2022
+1456,Magnolia,Flowering,55,30,07-21-2022
+1457,Maranta,Ornamental,60,28,07-26-2022
+1458,Mandevilla,Flowering,50,24,08-01-2022
+1459,Monstera,Ornamental,60,30,08-06-2022
+1460,Moth Orchid,Flowering,55,26,08-11-2022
+1461,Nasturtium,Flowering,60,16,08-16-2022
+1462,Neoregalia,Ornamental,50,22,08-21-2022
+1463,Olive Tree,Fruit,55,30,08-21-2022
+1464,Orchid,Flowering,60,28,08-21-2022
+1465,Pansy,Flowering,45,14,08-22-2022
+1466,Passion Flower,Flowering,60,24,08-26-2022
+1467,Peony,Flowering,55,30,08-26-2022
+1468,Periwinkle,Flowering,50,18,09-01-2022
+1469,Petunia,Flowering,60,20,09-02-2022
+1470,Phlox,Flowering,55,22,09-03-2022
+1471,Plumbago,Flowering,50,18,09-22-2022
+1472,Portulaca,Flowering,60,14,09-24-2022
+1473,Primrose,Flowering,55,16,09-28-2022
+1474,Rudbeckia,Flowering,50,20,10-01-2022
+1475,Sage,Herb,60,22,10-02-2022
+1476,Salvia,Flowering,55,18,10-04-2022
+1477,Scabiosa,Flowering,50,20,10-06-2022
+1478,Senecio,Ornamental,60,16,10-08-2022
+1479,Snapdragons,Flowering,45,18,10-12-2022
+1480,Sweet William,Flowering,55,22,10-15-2022
+1481,Thymus,Herb,60,14,10-16-2022
+1482,Tradescantia,Ornamental,50,20,10-21-2022
+1483,Verbena,Flowering,60,18,10-22-2022
+1484,Wisteria,Flowering,55,30,10-28-2022
+1485,Yucca,Ornamental,60,24,11-01-2022
+1486,Zinnia,Flowering,50,20,11-02-2022
+1487,Agave,Succulent,55,30,11-06-2022
+1488,Aloe Vera,Succulent,60,22,11-08-2022
+1489,Amaranth,Flowering,45,16,11-09-2022
+1490,Angelonia,Flowering,60,24,11-15-2022
+1491,Anise Hyssop,Herb,50,20,11-19-2022
+1492,Aucuba,Ornamental,55,26,11-21-2022
+1493,Begonia,Flowering,60,28,11-26-2022
+1494,Bellflower,Flowering,45,22,12-01-2022
+1495,Black-eyed Susan,Flowering,50,24,12-02-2022
+1496,Blue Star Creeper,Ornamental,60,18,12-04-2022
+1497,Bougainvillea,Flowering,55,26,12-12-2022
+1498,Cactus,Succulent,60,20,12-22-2022
+1499,Calibrachoa,Flowering,45,18,12-28-2022
+1500,Celosia,Flowering,60,24,12-29-2022
